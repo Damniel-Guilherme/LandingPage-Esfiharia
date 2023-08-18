@@ -1,13 +1,26 @@
+@import url(/assets/css/cores.css);
+@import url(/assets/css/fonts.css);
+
+.title__menu {
+    font-family: fw-l;
+    color: var(--gray);
+}
+
+.title__menu> strong {
+    font-family: fw-b;
+    color: var(--gray);
+}
+
 .btn-red-dark {
     background-color: #f0f4f5;
     border: 1px solid black;
 }
 .btn-red-dark:hover {
-    background-color: #cb525f;
+    background-color: var(--bg-orange);
     color:white;
     border: 1px solid #f0f4f5;
 }
 
 .bg-red {
-    background-color: #F0141E;
+    background-color: var(--bg-red);
 }
