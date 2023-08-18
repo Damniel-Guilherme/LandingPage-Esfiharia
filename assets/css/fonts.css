@@ -1,0 +1,20 @@
+@font-face {
+    font-family: fw-b;
+    src: url(/assets/fonts/HabibsDisplay-Bold.woff2)
+ }
+ @font-face {
+    font-family: fw-e;
+    src: url(/assets/fonts/HabibsDisplay-Extrabold.woff2)
+ }
+ @font-face {
+    font-family: fw-l;
+    src: url(/assets/fonts/HabibsDisplay-Light.woff2)
+ }
+ @font-face {
+    font-family: fw-r;
+    src: url(/assets/fonts/HabibsDisplay-Regular.woff2)
+ }
+ @font-face {
+    font-family: fw-s;
+    src: url(/assets/fonts/HabibsDisplay-Semibold.woff2)
+ }
