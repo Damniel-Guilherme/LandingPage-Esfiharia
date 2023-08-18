@@ -15,8 +15,3 @@
     height: 460px;
     background-image: url(/assets/img/cardapio/esfira__carne.webp);
 }
-
-.teste23:hover {
-    -webkit-filter: grayscale(100%);
-    filter: grayscale(100%);
-}
