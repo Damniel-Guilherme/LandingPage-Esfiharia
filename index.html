@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>Site Oficial Habibs</title>
+    <title>Site Oficial Habib's</title>
     <link
       href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css"
       rel="stylesheet"
@@ -11,12 +11,12 @@
       crossorigin="anonymous"
     />
     <link rel="stylesheet" href="./assets/css/style.css" />
+    <link rel="stylesheet" href="./assets/css/category.css" />
     
   </head>
   <body>
     <header>
       <nav class="navbar navbar-expand-lg bg-red py-3 px-5">
-        <div class="container-fluid">
           <a class="navbar-brand text-white text-bold" href="#">
             <img src="./assets/img/habibs-logo.png" width="125px">
           </a>
@@ -71,7 +71,6 @@
               <button class="btn btn-red-dark" type="submit">Buscar</button>
             </form>
           </div>
-        </div>
       </nav>
     </header>
     <main>
@@ -129,7 +128,7 @@
             data-bs-slide="prev"
           >
             <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-            <span class="visually-hidden">Previous</span>
+            <span class="visually-hidden">Anterior</span>
           </button>
           <button
             class="carousel-control-next"
@@ -138,63 +137,74 @@
             data-bs-slide="next"
           >
             <span class="carousel-control-next-icon" aria-hidden="true"></span>
-            <span class="visually-hidden">Next</span>
+            <span class="visually-hidden">Próximo</span>
           </button>
         </div>
       </section>
       <section id="categoria" >
         <div class="container-fluid">
-          <div class="row d-flex justify-content-around bg-body-secondary">
-            <div class="col-12 col-md-2">
-              <div class="card d-flex justify-content-center align-items-center">
-                <img src="./assets/img/categorias/pizza.png" width="50px" alt="Pizza">
-                <div class="card-body">
-                  <p class="card-text">Pizza</p>
-                </div>
+          <div class="card-group">
+            <div class="card">
+              <img src="./assets/img/categorias/discount.png" class="card-img card-category" alt="Descontos"/>
+              <div class="card-body">
+                <h5 class="card-title text-center">Combos e promoções</h5>
               </div>
             </div>
-            <div class="col-12 col-md-2">
-              <div class="card d-flex justify-content-center align-items-center">
-                <img src="./assets/img/categorias/pizza.png" width="50px" alt="Pizza">
-                <div class="card-body">
-                  <p class="card-text">Pizza</p>
-                </div>
+            <div class="card">
+              <img src="./assets/img/categorias/sfiha.png" class="card-img card-category" alt="Bib'sfiha"/>
+              <div class="card-body">
+                <h5 class="card-title text-center">Bib'sfihas</h5>
               </div>
             </div>
-            <div class="col-12 col-md-2">
-              <div class="card d-flex justify-content-center align-items-center">
-                <img src="./assets/img/categorias/pizza.png" width="50px" alt="Pizza">
-                <div class="card-body">
-                  <p class="card-text">Pizza</p>
-                </div>
+            <div class="card">
+              <img src="./assets/img/categorias/pizza.png" class="card-img card-category" alt="Pizza"/>
+              <div class="card-body">
+                <h5 class="card-title text-center">Pizzas</h5>
               </div>
             </div>
-            <div class="col-12 col-md-2">
-              <div class="card d-flex justify-content-center align-items-center">
-                <img src="./assets/img/categorias/pizza.png" width="50px" alt="Pizza">
-                <div class="card-body">
-                  <p class="card-text">Pizza</p>
-                </div>
+            <div class="card">
+              <img src="./assets/img/categorias/dish.png" class="card-img card-category" alt="Pratos"/>
+              <div class="card-body">
+                <h5 class="card-title text-center">Pratos</h5>
               </div>
             </div>
-            <div class="col-12 col-md-2">
-              <div class="card d-flex justify-content-center align-items-center">
-                <img src="./assets/img/categorias/pizza.png" width="50px" alt="Pizza">
-                <div class="card-body">
-                  <p class="card-text">Pizza</p>
-                </div>
+            <div class="card">
+              <img src="./assets/img/categorias/sandwich.png" class="card-img card-category" alt="Lanches"/>
+              <div class="card-body">
+                <h5 class="card-title text-center">Lanches</h5>
               </div>
             </div>
-            <div class="col-12 col-md-2">
-              <div class="card d-flex justify-content-center align-items-center">
-                <img src="./assets/img/categorias/pizza.png" width="50px" alt="Pizza">
-                <div class="card-body">
-                  <p class="card-text">Pizza</p>
-                </div>
+            <div class="card">
+              <img src="./assets/img/categorias/coxinha.png" class="card-img card-category" alt="Salgados"/>
+              <div class="card-body">
+                <h5 class="card-title text-center">Salgados</h5>
               </div>
             </div>
-       
-
+            <div class="card">
+              <img src="./assets/img/categorias/cocktail.png" class="card-img card-category" alt="Bebidas"/>
+              <div class="card-body">
+                <h5 class="card-title text-center">Bebidas</h5>
+              </div>
+            </div>
+            <div class="card">
+              <img src="./assets/img/categorias/ice-cream.png" class="card-img card-category" alt="Sobremesas"/>
+              <div class="card-body">
+                <h5 class="card-title text-center">Sobremesas</h5>
+              </div>
+            </div>
+            <div class="card">
+              <img src="./assets/img/categorias/meal.png" class="card-img card-category" alt="Kit habib's"/>
+              <div class="card-body">
+                <h5 class="card-title text-center">Kit habib's</h5>
+              </div>
+            </div>
+            <div class="card">
+              <img src="./assets/img/categorias/frozen.png" class="card-img card-category" alt="Congelados"/>
+              <div class="card-body">
+                <h5 class="card-title text-center">Congelados</h5>
+              </div>
+            </div>
+          </div>
           </div>
         </div>
       </section>
