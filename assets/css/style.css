@@ -1,14 +1,18 @@
 @import url(/assets/css/cores.css);
 @import url(/assets/css/fonts.css);
+@import url(/assets/css/cardapio.css);
 
-.title__menu {
-    font-family: fw-l;
-    color: var(--gray);
+
+/* SCROLLBAR */
+
+::-webkit-scrollbar {
+    width: 12px;
+    height: 12px;
+    background-color: var(--bg-orange);
 }
 
-.title__menu> strong {
-    font-family: fw-b;
-    color: var(--gray);
+::-webkit-scrollbar-thumb {
+   background-color: var(--bg-red);
 }
 
 .btn-red-dark {
@@ -24,3 +28,7 @@
 .bg-red {
     background-color: var(--bg-red);
 }
+
+
+
+

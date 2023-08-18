@@ -1,0 +1,29 @@
+.title__menu {
+    font-family: fw-l;
+    color: var(--gray);
+}
+
+.title__menu> strong {
+    font-family: fw-b;
+    color: var(--gray);
+}
+
+/* MENU ITEMS*/
+
+.teste1 {
+    border: none;
+    height: 460px;
+    background-image: url(/assets/img/cardapio/esfira__carne.webp);
+}
+
+.teste2 {
+    border: none;
+    height: 460px;
+    background-image: url(/assets/img/cardapio/esfira__frango.jpg);
+}
+
+.teste3 {
+    border: none;
+    height: 460px;
+    background-image: url(/assets/img/cardapio/esfira__carne.webp);
+}
