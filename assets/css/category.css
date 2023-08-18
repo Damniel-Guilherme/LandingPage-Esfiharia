@@ -1,4 +1,103 @@
 .card-category {
     width: 30%;
     margin: 0 auto;
+    transition: background-color 0.3s ease-in-out;
+}
+
+.card-category:hover {
+    color: white;
+    animation: fade-in-animation 2s forwards;
+}
+
+.card-category-1 {
+    color: var(--bg-category-1);
+}
+
+.card-category-1:hover {
+    background-color: var(--bg-category-1);
+}
+
+.card-category-2 {
+    color: var(--bg-category-2);
+}
+
+.card-category-2:hover {
+    background-color: var(--bg-category-2);
+}
+
+.card-category-3 {
+    color: var(--bg-category-3);
+}
+
+.card-category-3:hover {
+    background-color: var(--bg-category-3);
+}
+
+.card-category-4 {
+    color: var(--bg-category-4);
+}
+
+.card-category-4:hover {
+    background-color: var(--bg-category-4);
+}
+
+.card-category-5 {
+    color: var(--bg-category-5);
+}
+
+.card-category-5:hover {
+    background-color: var(--bg-category-5);
+}
+
+
+.card-category-6 {
+    color: var(--bg-category-6);
+}
+
+.card-category-6:hover {
+    background-color: var(--bg-category-6);
+}
+
+
+.card-category-7 {
+    color: var(--bg-category-7);
+}
+
+.card-category-7:hover {
+    background-color: var(--bg-category-7);
+}
+
+.card-category-8 {
+    color: var(--bg-category-8);
+}
+
+.card-category-8:hover {
+    background-color: var(--bg-category-8);
+}
+
+.card-category-9 {
+    color: var(--bg-category-9);
+}
+
+.card-category-9:hover {
+    background-color: var(--bg-category-9);
+}
+
+.card-category-10 {
+    color: var(--bg-category-10);
+}
+
+.card-category-10:hover {
+    background-color: var(--bg-category-10);
+}
+
+
+@keyframes fade-in-animation {
+    from {
+        opacity: 0.5;
+    }
+
+    to {
+        opacity: 1;
+    }
 }

@@ -2,4 +2,18 @@
     --bg-red: #F0141E;
     --bg-orange:#cb525f;
     --gray:#494949;;
+    --bg-white-cream: #f0f4f5;
+
+    /* category */
+
+    --bg-category-1:  #F0141E;
+    --bg-category-2:  #FFDC32;
+    --bg-category-3:  #FF5A1E;
+    --bg-category-4:  #640028;
+    --bg-category-5:  #460078;
+    --bg-category-6:  #A90023;
+    --bg-category-7:  #B9E1AA;
+    --bg-category-8:  #F0B9F0;
+    --bg-category-9:  #F0ADAD;
+    --bg-category-10:  #A5E1FF;
 }

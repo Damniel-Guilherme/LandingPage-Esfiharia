@@ -1,7 +1,7 @@
 @import url(/assets/css/cores.css);
 @import url(/assets/css/fonts.css);
 @import url(/assets/css/cardapio.css);
-
+@import url(/assets/css/category.css);
 
 /* SCROLLBAR */
 
@@ -16,13 +16,13 @@
 }
 
 .btn-red-dark {
-    background-color: #f0f4f5;
+    background-color: var(----bg-white-cream);
     border: 1px solid black;
 }
 .btn-red-dark:hover {
     background-color: var(--bg-orange);
     color:white;
-    border: 1px solid #f0f4f5;
+    border: 1px solid  var(----bg-white-cream);
 }
 
 .bg-red {
