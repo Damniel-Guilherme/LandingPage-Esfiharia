@@ -2,17 +2,23 @@
     font-family: fw-b;
     src: url(/assets/fonts/HabibsDisplay-Bold.woff2)
  }
-
+ .fw-b {
+   font-family: fw-b;
+ }
  @font-face {
     font-family: fw-e;
     src: url(/assets/fonts/HabibsDisplay-Extrabold.woff2)
  }
-
+ .fw-e {
+   font-family: fw-e;
+ }
  @font-face {
     font-family: fw-l;
     src: url(/assets/fonts/HabibsDisplay-Light.woff2)
  }
-
+ .fw-l {
+   font-family: fw-l;
+ }
  @font-face {
     font-family: fw-r;
     src: url(/assets/fonts/HabibsDisplay-Regular.woff2)
@@ -24,3 +30,7 @@
     font-family: fw-s;
     src: url(/assets/fonts/HabibsDisplay-Semibold.woff2)
  }
+ .fw-s {
+   font-family: fw-s;
+ }
+

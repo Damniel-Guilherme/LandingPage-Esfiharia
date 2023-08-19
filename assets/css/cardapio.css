@@ -4,7 +4,6 @@
 }
 
 .title__menu> strong {
-    font-family: fw-b;
     color: var(--gray);
 }
 
@@ -22,7 +21,7 @@
     background-color: #ddd;
     display: flex;
     justify-content: center;
-    align-items: center;
+
     position: relative;
 }
 
@@ -35,9 +34,11 @@
     color: white;
     background: rgba(0, 0, 0, 0.7);
     opacity: 0;
+    display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    gap: 10px;
     text-align: center;
     padding: 20px;
     box-sizing: border-box;
@@ -45,4 +46,11 @@
 
 .card-esfiras:hover  .card-hover {
    opacity: 1;
+}
+
+/* cards */
+
+.btn-danger {
+    background-color: var(--bg-red);
+    border-radius: 30px;
 }
