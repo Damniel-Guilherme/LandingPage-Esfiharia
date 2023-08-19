@@ -19,60 +19,12 @@
   <body>
     <header>
       <nav class="navbar navbar-expand-lg bg-red py-3 px-5">
-          <a class="navbar-brand text-white text-bold" href="#">
+        <button class="navbar-toggler"  style="display: block !important;filter: invert(100%) sepia(100%) saturate(0%) hue-rotate(180deg);" type="button"data-bs-toggle="offcanvas" data-bs-target="#offcanvasExample" aria-controls="offcanvasExample" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+          <a class="navbar-brand text-white text-bold mx-3" href="#">
             <img src="./assets/img/habibs-logo.png" width="125px" />
           </a>
-          <button
-            class="navbar-toggler"
-            type="button"
-            data-bs-toggle="collapse"
-            data-bs-target="#navbarSupportedContent"
-            aria-controls="navbarSupportedContent"
-            aria-expanded="false"
-            aria-label="Toggle navigation"
-          >
-            <span class="navbar-toggler-icon"></span>
-          </button>
-          <div class="collapse navbar-collapse" id="navbarSupportedContent">
-            <ul class="navbar-nav me-auto mb-2 mb-lg-0">
-              <li class="nav-item">
-                <a
-                  class="nav-link active text-white fw-bold"
-                  aria-current="page"
-                  href="#"
-                  >Inicio</a
-                >
-              </li>
-              <li class="nav-item">
-                <a class="nav-link text-white" href="#">Cardapio</a>
-              </li>
-              <li class="nav-item dropdown">
-                <a
-                  class="nav-link dropdown-toggle text-white"
-                  href="#"
-                  role="button"
-                  data-bs-toggle="dropdown"
-                  aria-expanded="false"
-                >
-                  Categorias
-                </a>
-                <ul class="dropdown-menu">
-                  <li><a class="dropdown-item" href="#">Lanches</a></li>
-                  <li><a class="dropdown-item" href="#">Almoço</a></li>
-                  <li><a class="dropdown-item" href="#">Sobremesas</a></li>
-                </ul>
-              </li>
-            </ul>
-            <form class="d-flex" role="search">
-              <input
-                class="form-control me-2"
-                type="search"
-                placeholder="Buscar"
-                aria-label="Buscar"
-              />
-              <button class="btn btn-red-dark" type="submit">Buscar</button>
-            </form>
-          </div>
       </nav>
     </header>
     <main>
@@ -253,6 +205,41 @@
         </div>
       </section>
     </main>
+
+<!-- menu offcanvas direito -->          
+    <div class="offcanvas offcanvas-start" tabindex="-1" id="offcanvasExample" aria-labelledby="offcanvasExampleLabel">
+      <div class="offcanvas-header bg-red ">
+        <h5 class="offcanvas-title text-white" id="offcanvasExampleLabel"><svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" fill="currentColor" class="bi bi-person-fill" viewBox="0 0 16 16">
+          <path d="M3 14s-1 0-1-1 1-4 6-4 6 3 6 4-1 1-1 1H3Zm5-6a3 3 0 1 0 0-6 3 3 0 0 0 0 6Z"/>
+        </svg>OLÁ VISITANTE<br>FAÇA <span class="fw-bolder">LOGIN</span> OU <span class="fw-bolder">CADASTRE-SE</span></h5>
+        <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+      </div>
+      <div class="offcanvas-body bg-red p-0">
+        <ul>
+          <div class="navbar-collapse offcanvas-collapse" id="navbarsExampleDefault" >
+            <ul class="navbar-nav me-auto mb-2 mb-lg-0 text-white">
+              <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="#" id="dropdown01" data-bs-toggle="dropdown" aria-expanded="false">CARDÁPIO</a>
+                <ul class="dropdown-menu" aria-labelledby="dropdown01">
+                  <li><a class="dropdown-item" href="#">Combos e promoções</a></li>
+                  <li><a class="dropdown-item" href="#">Bib'sfihas</a></li>
+                  <li><a class="dropdown-item" href="#">Pizzas</a></li>
+                </ul>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" aria-current="page" href="#">ACOMPANHE SEU PEDIDO</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="#">FAÇA SUA FESTA NO HABIB'S</a>
+              </li>
+            </ul>
+         
+          </div>
+        </div>
+      </nav>
+        </ul>
+      </div>
+    </div>
 
     <script
       src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/js/bootstrap.bundle.min.js"

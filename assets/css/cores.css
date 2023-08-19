@@ -17,3 +17,8 @@
     --bg-category-9:  #F0ADAD;
     --bg-category-10:  #A5E1FF;
 }
+
+.bg-red {
+    background-color: var(--bg-red);
+}
+
