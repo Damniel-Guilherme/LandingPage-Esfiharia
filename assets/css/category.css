@@ -54,7 +54,6 @@
     background-color: var(--bg-category-5);
 }
 
-
 .card-category-6 {
     color: var(--bg-category-6);
 }
@@ -62,7 +61,6 @@
 .card-category-6:hover {
     background-color: var(--bg-category-6);
 }
-
 
 .card-category-7 {
     color: var(--bg-category-7);
@@ -95,7 +93,6 @@
 .card-category-10:hover {
     background-color: var(--bg-category-10);
 }
-
 
 @keyframes fade-in-animation {
     from {
