@@ -13,15 +13,36 @@
     border: none;
     height: 460px;
     background-image: url(/assets/img/cardapio/esfira__carne.webp);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.cardapio {
+    width: 100vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.row {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+}
+
+.title__menu {
+    text-align: center;
+    margin: 30px auto;
 }
 
 .card-esfiras {
-    /* width: 200px;
-    height: 150px; */
+    width: 250px;
+    height: 200px;
     background-color: #ddd;
     display: flex;
     justify-content: center;
-
+    align-items: center;
     position: relative;
 }
 

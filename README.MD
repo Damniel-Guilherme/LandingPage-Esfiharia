@@ -50,8 +50,8 @@ O objetivo central deste projeto é promover a aquisição e aprimoramento dos c
 ## Preview do Projeto
 
 <div style="display: flex; flex-direction: row;">
-        <img src="https://i.imgur.com/tdV1y7q.png" alt="Imagem Mobile" width="100">
-        <img src="https://i.imgur.com/PVVbWjk.png" alt="Imagem Desktop" width="250">
+        <img src="https://i.imgur.com/lgEpFbn.png" alt="Imagem Mobile" width="100">
+        <img src="https://i.imgur.com/lyObJfa.png" alt="Imagem Desktop" width="250">
 </div>
 
 ## Instalação ⚙️
@@ -136,12 +136,9 @@ Para maior comodidade, você pode acessar diretamente pelo site 🌐[Acesse o si
 **Versão Mobile**
 
 <div style="display: flex; flex-wrap: wrap;">
-    <img src="https://i.imgur.com/7sl6VxK.png" width="100px">
-    <img src="https://i.imgur.com/7sl6VxK.png" width="100px">
-    <img src="https://i.imgur.com/lXfQ6OD.png" width="100px">
-    <img src="https://i.imgur.com/rnH2RuQ.png" width="100px">
-    <img src="https://i.imgur.com/rnH2RuQ.png" width="100px">
-    <img src="https://i.imgur.com/O0pXuVh.png" width="100px">
+    <img src="https://i.imgur.com/XgdV9sD.png" width="100px">
+    <img src="https://i.imgur.com/bafwwMl.png" width="100px">
+    <img src="https://i.imgur.com/ItS0Tds.png" width="100px">
 </div>
 
 <br>
@@ -149,19 +146,16 @@ Para maior comodidade, você pode acessar diretamente pelo site 🌐[Acesse o si
 **Versão Desktop**
 
 <div style="display: flex; flex-wrap: wrap;">
-    <img src="https://i.imgur.com/DDHG6Ww.png" width="250px">
-    <img src="https://i.imgur.com/AlBongb.png" width="250px">
-    <img src="https://i.imgur.com/WsUT6EP.png" width="250px">
-    <img src="https://i.imgur.com/e2U88Ew.png" width="250px">
-    <img src="https://i.imgur.com/6p9OUuY.png" width="250px">
-    <img src="https://i.imgur.com/cwaU7PS.png" width="250px">
+    <img src="https://i.imgur.com/LYpKw8a.png" width="250px">
+    <img src="https://i.imgur.com/Ogbn2oJ.png" width="250px">
+    <img src="https://i.imgur.com/9e0Cmia.png" width="250px">
 </div>
 
 ## Testes 🔧
 
 Lighthouse Chrome Test
 
-<img src="https://i.imgur.com/AhdcF6j.jpg" width="300px">
+<img src="https://i.imgur.com/6B6DEJX.jpeg" width="300px">
 
 ## Aprendizados 💡
 
