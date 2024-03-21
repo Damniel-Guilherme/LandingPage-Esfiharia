@@ -1,5 +1,5 @@
 <div align="center">
-    <h1>LandingPage Esfiharia</h1>
+    <h1>Landing Page Esfiharia</h1>
     <div> 
         <img alt="GitHub Language Count" src="https://img.shields.io/github/languages/count/Damniel-Guilherme/LandingPage-Esfiharia" style="pointer-events: none;" />
         <img alt="GitHub Top Language" src="https://img.shields.io/github/languages/top/Damniel-Guilherme/LandingPage-Esfiharia" style="pointer-events: none;" />
