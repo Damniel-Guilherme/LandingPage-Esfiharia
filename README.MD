@@ -88,7 +88,7 @@ Para maior comodidade, você pode acessar diretamente pelo site 🌐[Acesse o si
 </div>
 
   <div style="display: flex; align-items: center; margin-bottom: 10px;">
-      <img src="https://img.icons8.com/?size=96&id=QBqFNfPPB2Kx&format=png" width="25" title="CSS" style="margin-right: 10px; pointer-events: none;"/> <strong style="margin-right: 10px;">Sass:</strong> Sass serve para facilitar a escrita e manutenção de estilos em páginas da web, estendendo as funcionalidades do CSS.
+      <img src="https://img.icons8.com/?size=96&id=84710&format=png" width="25" title="CSS" style="margin-right: 10px; pointer-events: none;"/> <strong style="margin-right: 10px;">BootStrap:</strong> Sass serve para facilitar a escrita e manutenção de estilos em páginas da web, estendendo as funcionalidades do CSS.
   </div>
 </div>
 
