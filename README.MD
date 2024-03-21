@@ -173,8 +173,6 @@ Durante o desenvolvimento deste projeto, aprendemos e praticamos diversas habili
 
 - **Sass:** Sass é uma linguagem de folhas de estilo que estende o CSS, permitindo uma codificação mais eficiente e organizada. Ele oferece recursos como variáveis, aninhamento de seletores, mixins e funções, facilitando a criação e manutenção de estilos para páginas da web.
 
-- **BootStrap:** Bootstrap é um framework front-end que agiliza o desenvolvimento de websites responsivos, fornecendo componentes e estilos pré-construídos para criar interfaces visualmente atraentes e consistentes em diferentes dispositivos.
-
 Esses aprendizados foram fundamentais para o sucesso e qualidade do nosso projeto, fornecendo uma base sólida para futuros desenvolvimentos e contribuições.
 
 ## ~~Técnicas Aplicadas~~  ✔📌
@@ -190,8 +188,6 @@ Neste projeto,  ~~aplicamos~~  várias técnicas de desenvolvimento web, incluin
 - **Design Responsivo e Mobile First":** No projeto, priorizamos o design responsivo e adotamos a abordagem mobile-first, garantindo total funcionalidade e estética em dispositivos móveis. Expandimos o design para dispositivos maiores, mantendo consistência e usabilidade em todas as plataformas, assegurando uma experiência otimizada para todos os usuários.
 
 - **Sass:** Sass é uma linguagem de folhas de estilo que estende o CSS, oferecendo recursos avançados para uma codificação mais eficiente e organizada, como variáveis, aninhamento de seletores e mixins.
-
-- **BootStrap:** Bootstrap oferece um sistema de grade flexível e componentes prontos para uso, permitindo criar layouts responsivos e estilizados facilmente. Suas classes de utilitário agilizam o estilo e a formatação, enquanto os plugins JavaScript adicionam funcionalidades interativas aos sites. Personalizável via Sass, o Bootstrap é uma ferramenta essencial para o desenvolvimento front-end eficiente
 
 ## Dificuldades 🚨
 
