@@ -85,8 +85,6 @@ Para maior comodidade, você pode acessar diretamente pelo site 🌐[Acesse o si
   <div style="display: flex; align-items: center; margin-bottom: 10px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="25" title="CSS" style="margin-right: 10px; pointer-events: none;"/> <strong style="margin-right: 10px;">CSS:</strong> Utilizado para estilizar e formatar o conteúdo HTML, proporcionando uma apresentação visual atraente e consistente.
   </div>
-</div>
-
   <div style="display: flex; align-items: center; margin-bottom: 10px;">
       <img src="https://img.icons8.com/?size=96&id=84710&format=png" width="25" title="CSS" style="margin-right: 10px; pointer-events: none;"/> <strong style="margin-right: 10px;">BootStrap:</strong> Bootstrap é um framework front-end utilizado para desenvolver interfaces de usuário responsivas e estilizadas.
   </div>
