@@ -12,7 +12,7 @@
 
 ## Descrição 📝
 
-O **LandingPage Esfiharia** é um site de com temática de  Esfiharia desenvolvido com o propósito de aprendizado, seguindo o roadmap [RoadMap ETAPA 1 - HTML, CSS E BootStrap] PROJETO 4.
+O **LandingPage Esfiharia** é um site de com temática de Esfiharia desenvolvido com o propósito de aprendizado, seguindo o roadmap [RoadMap ETAPA 1 - HTML, CSS E BootStrap] PROJETO 4.
 
 ## Tabela de Conteúdos 
 
